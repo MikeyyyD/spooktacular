@@ -1,0 +1,25 @@
+{
+  "name": "Evil Giga Chad",
+  "stats": {100
+    "hp": 0,2000 hp
+    "ac": 0,
+    "speed": 0
+  },
+  "abilities": {Super Speed,Advanced Strengh,Laser Eyes.
+    "strength": 20000,
+    "dexterity": 1,00000000000,
+    "constitution": 1,0000000000000,
+    "intelligence": 1,000000000000000000,
+    "wisdom": 1,000000000000000000000,
+    "charisma": 0
+  },
+  "attack":"The Fistball Shuffle" {
+    "name": "",
+    "damage": 1,0000000
+  },
+  "special": {
+      "name": "Ultra Kick",
+      "description": "This Man came from the Planet Of Chads",
+      "effect": ""
+  }
+}
